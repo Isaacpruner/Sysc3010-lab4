@@ -12,7 +12,9 @@ public class Hello {
 
 	public void methodA( ) { }
 
-	public void methodB() { }
+	public void methodB() {
+		System.out.println("MethodB");
+	}
 
 	public void methodC() { }
 }
